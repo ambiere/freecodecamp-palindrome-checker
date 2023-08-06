@@ -1,3 +1,9 @@
+## [0.3.0](https://github.com/zhid0399123/freecodecamp-palindrome-checker/compare/0.2.0...0.3.0) (2023-08-06)
+
+### Features
+
+- **config:** configured commitizen, eslint, lint-staged and husky ([d50af51](https://github.com/zhid0399123/freecodecamp-palindrome-checker/commit/d50af519ed14ff0c3e7fba89972506e255e9416f))
+
 ## [0.2.0](https://github.com/zhid0399123/freecodecamp-palindrome-checker/compare/d9c3531773711bb58dcfa4b81bd283ee55baf70e...0.2.0) (2023-08-06)
 
 ### Features
