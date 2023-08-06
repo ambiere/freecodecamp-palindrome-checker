@@ -1,3 +1,9 @@
+## [0.4.0](https://github.com/zhid0399123/freecodecamp-palindrome-checker/compare/0.3.0...0.4.0) (2023-08-06)
+
+### Features
+
+- **index.html:** changed document title ([71ed4f8](https://github.com/zhid0399123/freecodecamp-palindrome-checker/commit/71ed4f85e6175069b4221d4815d0e1e7d777ff98))
+
 ## [0.3.0](https://github.com/zhid0399123/freecodecamp-palindrome-checker/compare/0.2.0...0.3.0) (2023-08-06)
 
 ### Features
