@@ -1,0 +1,32 @@
+.palindrome-input-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap: 8px;
+}
+
+.palindrome-input {
+  appearance: none;
+  border-radius: 8px;
+  font-size: 1em;
+  min-width: 360px;
+  padding: 0.6em 0.8em;
+  border: 2px solid rgba(128, 128, 128, 0.734);
+  background-color: transparent;
+  font-family: inherit;
+  transition: border-color 0.25s;
+}
+
+@media (max-width: 510px) {
+  .palindrome-input {
+    width: 240px;
+  }
+}
+
+.palindrome-input:hover {
+  border-color: rgb(243, 241, 241);
+}
+
+.palindrome-input:focus {
+  outline: 2px solid grey;
+}

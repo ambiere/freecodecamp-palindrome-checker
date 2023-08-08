@@ -1,0 +1,33 @@
+.palindrome-form-wrapper {
+  display: flex;
+  flex-direction: column;
+  place-items: center;
+  padding-inline: 4em;
+  padding-block: 2em;
+  min-width: 640px;
+  border: 1px solid rgba(128, 128, 128, 0.202);
+  border-block: none;
+}
+
+.palindrome-form-wrapper > h2 {
+  text-align: start;
+  width: 360px;
+}
+
+.palindrome-form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-bottom: 2em;
+}
+
+.palindrome-form > a {
+  color: gray;
+  font-size: 0.8em;
+  margin-top: 1em;
+  cursor: pointer;
+}
+
+a:hover .link-icon {
+  fill: #535bf2 !important;
+}
