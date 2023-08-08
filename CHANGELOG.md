@@ -1,3 +1,9 @@
+## [0.7.0](https://github.com/zhid0399123/freecodecamp-palindrome-checker/compare/0.6.0...0.7.0) (2023-08-08)
+
+### Features
+
+- **isPalindrome.js:** an algorithm to check if a word/sentence is a palindrome ([cf19194](https://github.com/zhid0399123/freecodecamp-palindrome-checker/commit/cf19194c85c96c39e4aea37d8fdae6ca5ae65b21))
+
 ## [0.6.0](https://github.com/zhid0399123/freecodecamp-palindrome-checker/compare/0.5.1...0.6.0) (2023-08-08)
 
 ### Features
