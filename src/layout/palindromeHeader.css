@@ -1,0 +1,20 @@
+.palindrome-header {
+  padding: 2em;
+  width: 100%;
+  background: linear-gradient(to top, rgba(69, 69, 69, 0.142), #242424);
+  position: sticky;
+  top: 0;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.202);
+}
+
+.palindrome-header:after {
+  content: "";
+  position: absolute;
+  width: inherit;
+  height: inherit;
+  inset: 0;
+  background: linear-gradient(to top, rgba(30, 30, 30, 0.505), #242424);
+  backdrop-filter: blur(12px);
+  filter: opacity(0.9);
+  z-index: -1;
+}
