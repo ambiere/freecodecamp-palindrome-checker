@@ -1,3 +1,9 @@
+## [0.9.0](https://github.com/zhid0399123/freecodecamp-palindrome-checker/compare/0.8.0...0.9.0) (2023-08-08)
+
+### Features
+
+- **palindromeHeader.css:** styled palindrome header ([b56cb1e](https://github.com/zhid0399123/freecodecamp-palindrome-checker/commit/b56cb1efd4e0527851775e28aec37c57c60d0dd3))
+
 ## [0.8.0](https://github.com/zhid0399123/freecodecamp-palindrome-checker/compare/0.7.1...0.8.0) (2023-08-08)
 
 ### Features
