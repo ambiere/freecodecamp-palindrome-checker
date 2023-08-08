@@ -1,3 +1,9 @@
+## [0.5.0](https://github.com/zhid0399123/freecodecamp-palindrome-checker/compare/0.4.0...0.5.0) (2023-08-08)
+
+### Features
+
+- **PalindromeHeader.jsx:** added a header component to render the title/header section ([fe566c8](https://github.com/zhid0399123/freecodecamp-palindrome-checker/commit/fe566c8cb84fe867a2b9c753b24379c9bdda3de3))
+
 ## [0.4.0](https://github.com/zhid0399123/freecodecamp-palindrome-checker/compare/0.3.0...0.4.0) (2023-08-06)
 
 ### Features
