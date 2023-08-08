@@ -1,3 +1,37 @@
+## [0.9.0](https://github.com/zhid0399123/freecodecamp-palindrome-checker/compare/0.8.0...0.9.0) (2023-08-08)
+
+### Features
+
+- **palindromeHeader.css:** styled palindrome header ([b56cb1e](https://github.com/zhid0399123/freecodecamp-palindrome-checker/commit/b56cb1efd4e0527851775e28aec37c57c60d0dd3))
+
+## [0.8.0](https://github.com/zhid0399123/freecodecamp-palindrome-checker/compare/0.7.1...0.8.0) (2023-08-08)
+
+### Features
+
+- **views:** restructure the app to various views ([f4f3fe3](https://github.com/zhid0399123/freecodecamp-palindrome-checker/commit/f4f3fe3738dd5fc978187a008d3592041ed463a5))
+
+## [0.7.1](https://github.com/zhid0399123/freecodecamp-palindrome-checker/compare/0.7.0...0.7.1) (2023-08-08)
+
+## [0.7.0](https://github.com/zhid0399123/freecodecamp-palindrome-checker/compare/0.6.0...0.7.0) (2023-08-08)
+
+### Features
+
+- **isPalindrome.js:** an algorithm to check if a word/sentence is a palindrome ([cf19194](https://github.com/zhid0399123/freecodecamp-palindrome-checker/commit/cf19194c85c96c39e4aea37d8fdae6ca5ae65b21))
+
+## [0.6.0](https://github.com/zhid0399123/freecodecamp-palindrome-checker/compare/0.5.1...0.6.0) (2023-08-08)
+
+### Features
+
+- **parseMarkdown.js:** util function to parse tick marks to html span tags ([63688be](https://github.com/zhid0399123/freecodecamp-palindrome-checker/commit/63688be81f859767cf2b6cfeeeaa414b7faf4ecb))
+
+## [0.5.1](https://github.com/zhid0399123/freecodecamp-palindrome-checker/compare/0.5.0...0.5.1) (2023-08-08)
+
+## [0.5.0](https://github.com/zhid0399123/freecodecamp-palindrome-checker/compare/0.4.0...0.5.0) (2023-08-08)
+
+### Features
+
+- **PalindromeHeader.jsx:** added a header component to render the title/header section ([fe566c8](https://github.com/zhid0399123/freecodecamp-palindrome-checker/commit/fe566c8cb84fe867a2b9c753b24379c9bdda3de3))
+
 ## [0.4.0](https://github.com/zhid0399123/freecodecamp-palindrome-checker/compare/0.3.0...0.4.0) (2023-08-06)
 
 ### Features

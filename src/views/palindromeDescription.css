@@ -1,0 +1,9 @@
+.palindrome-description {
+  text-align: start;
+  padding-inline: 4em;
+  padding-top: 2em;
+  max-width: 640px;
+  padding-bottom: 4em;
+  border: 1px solid rgba(128, 128, 128, 0.202);
+  border-block: none;
+}
