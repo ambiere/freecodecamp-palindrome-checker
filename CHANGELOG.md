@@ -1,3 +1,5 @@
+## [0.7.1](https://github.com/zhid0399123/freecodecamp-palindrome-checker/compare/0.7.0...0.7.1) (2023-08-08)
+
 ## [0.7.0](https://github.com/zhid0399123/freecodecamp-palindrome-checker/compare/0.6.0...0.7.0) (2023-08-08)
 
 ### Features
