@@ -1,0 +1,10 @@
+.palindrome-message {
+  text-align: start;
+  background-color: rgba(0, 128, 0, 0.065);
+  padding: 0.6em 1.2em;
+  padding-inline: 4em;
+  padding-block: 2em;
+  max-width: 640px;
+  border: 1px solid rgba(128, 128, 128, 0.202);
+  border-block: none;
+}
