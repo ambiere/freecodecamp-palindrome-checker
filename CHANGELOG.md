@@ -1,3 +1,9 @@
+## [0.8.0](https://github.com/zhid0399123/freecodecamp-palindrome-checker/compare/0.7.1...0.8.0) (2023-08-08)
+
+### Features
+
+- **views:** restructure the app to various views ([f4f3fe3](https://github.com/zhid0399123/freecodecamp-palindrome-checker/commit/f4f3fe3738dd5fc978187a008d3592041ed463a5))
+
 ## [0.7.1](https://github.com/zhid0399123/freecodecamp-palindrome-checker/compare/0.7.0...0.7.1) (2023-08-08)
 
 ## [0.7.0](https://github.com/zhid0399123/freecodecamp-palindrome-checker/compare/0.6.0...0.7.0) (2023-08-08)
