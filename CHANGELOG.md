@@ -1,3 +1,9 @@
+## [0.6.0](https://github.com/zhid0399123/freecodecamp-palindrome-checker/compare/0.5.1...0.6.0) (2023-08-08)
+
+### Features
+
+- **parseMarkdown.js:** util function to parse tick marks to html span tags ([63688be](https://github.com/zhid0399123/freecodecamp-palindrome-checker/commit/63688be81f859767cf2b6cfeeeaa414b7faf4ecb))
+
 ## [0.5.1](https://github.com/zhid0399123/freecodecamp-palindrome-checker/compare/0.5.0...0.5.1) (2023-08-08)
 
 ## [0.5.0](https://github.com/zhid0399123/freecodecamp-palindrome-checker/compare/0.4.0...0.5.0) (2023-08-08)
